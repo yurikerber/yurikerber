@@ -1,29 +1,28 @@
-<a><p align="center"><img src="https://www.univates.br/media/crie_ti/images/icon-click.png"></p></a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="center">Yúri Kerber's Profile</h1>
 
-<p align="center"><b>About me:</b> Student of the first class of CRIE_TI at
+<p align="left"><b>About me:</b> Student of the first class of CRIE_TI at
 <a href="https://www.univates.br/">Univates</a>, University of Vale do Taquari and lover of technology and innovation</p>
 
-<p align="center"><b>Work: </b>Varnizador Jr Lithographer at Brasilata Embalagens Metálicas.</p>
+<p align="left"><b>Work: </b>Varnizador Jr Lithographer at Brasilata Embalagens Metálicas.</p>
 
 
-<h2 align="center">Social networks</h2>
-<p align="center"><a href="https://api.whatsapp.com/send?phone=5551995285287">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" class="whatsapp"></a>
+<p align="left">
+  <a href="mailto:yuri.fernandes@universo.univates.br" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-<a href="https://t.me/yurikerber">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" class="telegram"></a>
+  <a href="https://www.linkedin.com/in/yurikerber/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-<a href="https://www.instagram.com/yurikerber/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" class="instagram"></a>
+  <a href="https://api.whatsapp.com/send?phone=5551995285287" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-<a href="https://www.linkedin.com/in/yurikerber/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="linkedin"></a>
+  <a href="https://www.facebook.com/yurikerberfernandes/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-<a href="https://www.facebook.com/yurikerberfernandes/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" class="facebook"></a>
+  <a href="https://www.instagram.com/yurikerber/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
- <a href="mailto:yuri.fernandes@universo.univates.br">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="gmail"></a>
-</p>
+![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=plastic&color=lightgrey)
