@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1 align="center">Yúri Kerber's Profile</h1>
+<h1 align="left">Yúri Kerber's Profile</h1>
 
 <p align="left"><b>About me:</b> Student of the first class of CRIE_TI at
 <a href="https://www.univates.br/">Univates</a>, University of Vale do Taquari and lover of technology and innovation</p>
