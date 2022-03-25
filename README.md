@@ -10,19 +10,19 @@
 
 <p align="left">
   <a href="mailto:yuri.fernandes@universo.univates.br" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF" /></a>
 
   <a href="https://www.linkedin.com/in/yurikerber/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5551995285287" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=00FFFF"/></a>
 
   <a href="https://www.facebook.com/yurikerberfernandes/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+  <img src="https://img.shields.io/badge/Facebook-1C1C1C?style=for-the-badge&logo=Facebook&logoColor=00FFFF"/></a>
 
   <a href="https://www.instagram.com/yurikerber/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
 
 ![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=plastic&color=lightgrey)
