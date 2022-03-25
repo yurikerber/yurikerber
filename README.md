@@ -29,9 +29,6 @@
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=yurikerber&count_private=true&show_icons=true&theme=onedark"
         alt="My GitHub stats" />
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikerber&langs_count=10&layout=compact&theme=onedark"
-        alt="Most Used Language" />
 </p>
 
 <h2 align='center'>Points</h2>
