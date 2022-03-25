@@ -25,4 +25,4 @@
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
 
-![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=plastic&color=00FFFF)
+![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)
