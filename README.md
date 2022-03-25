@@ -1,14 +1,14 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center">
+<p align="center"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center"></p>
 
 <h1 align="left">Yúri Kerber's Profile</h1>
 
-<p align="left"><b>About me:</b> Student of the first class of CRIE_TI at
+<p align="center"><b>About me:</b> Student of the first class of CRIE_TI at
 <a href="https://www.univates.br/">Univates</a>, University of Vale do Taquari and lover of technology and innovation</p>
 
-<p align="left"><b>Work: </b>Varnizador Jr Lithographer at Brasilata Embalagens Metálicas.</p>
+<p align="center"><b>Work: </b>Varnizador Jr Lithographer at Brasilata Embalagens Metálicas.</p>
 
 
-<p align="left">
+<p align="center">
   <a href="mailto:yuri.fernandes@universo.univates.br" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF" /></a>
 
