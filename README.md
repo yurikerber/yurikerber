@@ -24,5 +24,6 @@
   <a href="https://www.instagram.com/yurikerber/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
-<p align="left">
-![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)</p>
+
+
+![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)
