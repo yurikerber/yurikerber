@@ -25,5 +25,9 @@
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?yurikerber=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 ![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)
