@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center"></p>
 
-<h1 align="left">Yúri Kerber's Profile</h1>
+<h1 align="center">Yúri Kerber's Profile</h1>
 
 <p align="center"><b>About me:</b> Student of the first class of CRIE_TI at
 <a href="https://www.univates.br/">Univates</a>, University of Vale do Taquari and lover of technology and innovation</p>
@@ -24,5 +24,5 @@
   <a href="https://www.instagram.com/yurikerber/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
-
-![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)
+<p align="left">
+![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)</p>
