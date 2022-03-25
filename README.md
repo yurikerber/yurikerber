@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yurikerber)
+<h2 align='center'>Points</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=yurikerber&column=3&theme=onedark"
+            alt="yurikerber" /></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)
