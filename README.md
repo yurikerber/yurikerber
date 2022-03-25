@@ -24,6 +24,15 @@
   <a href="https://www.instagram.com/yurikerber/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
+<h2 align='center'>Stats</h2>
+<p align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=yurikerber&count_private=true&show_icons=true&theme=onedark"
+        alt="My GitHub stats" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikerber&langs_count=10&layout=compact&theme=onedark"
+        alt="Most Used Language" />
+</p>
 
 <h2 align='center'>Points</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
