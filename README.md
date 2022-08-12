@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="mailto:yuri.fernandes@universo.univates.br" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF" /></a>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/yurikerber/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5551995285287" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=00FFFF"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
   <a href="https://www.facebook.com/yurikerberfernandes/" alt="Facebook">
-  <img src="https://img.shields.io/badge/Facebook-1C1C1C?style=for-the-badge&logo=Facebook&logoColor=00FFFF"/></a>
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/yurikerber/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>  
 <!-- skills -->
 <h2 align='center'>Skills</h2>
