@@ -30,7 +30,11 @@
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>                                                                                               
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 <h2 align='center'>Stats</h2>
 <p align="center">
