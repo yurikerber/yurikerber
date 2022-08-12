@@ -26,7 +26,7 @@
 </p>  
 <h2 align='center'>Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/>
 </p>
 <h2 align='center'>Stats</h2>
 <p align="center">
