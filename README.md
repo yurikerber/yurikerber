@@ -24,6 +24,10 @@
   <a href="https://www.instagram.com/yurikerber/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
 </p>  
+<h2 align='center'>Skills</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=#000000"/>
+</p>
 <h2 align='center'>Stats</h2>
 <p align="center">
     <img align="center"
