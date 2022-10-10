@@ -2,11 +2,7 @@
 
 <h1 align="center">Yúri Kerber's Profile</h1>
 
-<p align="center"><b>About me:</b> Student of the first class of CRIE_TI at
-<a href="https://www.univates.br/">Univates</a>, University of Vale do Taquari and lover of technology and innovation</p>
-
 <p align="center"><b>IT Assistant Intern - CAF.io | CRIE_TI - Univates</p>
-
 
 <p align="center">
   <a href="mailto:yuri.fernandes@universo.univates.br" alt="Gmail">
