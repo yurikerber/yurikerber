@@ -29,16 +29,18 @@
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
-<h2 align='center'>Stats</h2>
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=yurikerber&count_private=true&show_icons=true&theme=onedark"
+        src="https://github-readme-stats.vercel.app/api?username=yurikerber&count_private=true&show_icons=true&theme=radical"
         alt="My GitHub stats" />
 </p>
 
-<h2 align='center'>Points</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=yurikerber&column=3&theme=onedark"
+            src="https://github-profile-trophy.vercel.app/?username=yurikerber&column=3&theme=radical"
+            alt="yurikerber" /></a> </p>
+
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikerber&hide=html&layout=compact&theme=radical"
             alt="yurikerber" /></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)
