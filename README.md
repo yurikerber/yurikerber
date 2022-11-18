@@ -39,8 +39,4 @@
             src="https://github-profile-trophy.vercel.app/?username=yurikerber&column=3&theme=radical"
             alt="yurikerber" /></a> </p>
 
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikerber&hide=html&layout=compact&theme=radical"
-            alt="yurikerber" /></a> </p>
-
 ![](https://komarev.com/ghpvc/?username=yurikerber&label=Profile+Views&style=for-the-badge&color=1C1C1C)
