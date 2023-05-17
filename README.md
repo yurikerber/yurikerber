@@ -37,11 +37,11 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pjccazq9uyseld57z8b743khu)
   
-</div>
+</div> -->
 
 ###
 
