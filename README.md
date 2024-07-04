@@ -10,10 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yurikerber&theme=tokyonight&hide_border=true&mode=weekly)<br/>
 
-### ✍️ Random Dev Quote
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 [![](https://visitcount.itsvg.in/api?id=yurikerber&icon=1&color=3)](https://visitcount.itsvg.in)
 
 </div>
