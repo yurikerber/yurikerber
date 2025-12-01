@@ -10,6 +10,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurikerber&theme=github-dark&hide_border=true&custom_title=Y%C3%BAri%27s%20Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=FFFFFF&area=true&area_color=ffffff&days=15" alt="GitHub Activity Graph" />
   <br/>
+  <br/>
 
   <img src="https://count.getloli.com/@:yurikerber?theme=sketch-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 
