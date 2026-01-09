@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurikerber&theme=dark&hide_border=true&stroke=ffffff&background=000000&ring=FFFFFF&fire=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&mode=weekly&card_width=700&card_height=300" alt="GitHub Streak"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurikerber&theme=dark&hide_border=true&stroke=ffffff&background=000000&ring=FFFFFF&fire=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&mode=weekly&card_width=700&card_height=300" alt="GitHub Streak"/> -->
 
   <br/>
 
